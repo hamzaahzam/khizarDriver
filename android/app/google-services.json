@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "653557223572",
+    "project_id": "khizar-driver",
+    "storage_bucket": "khizar-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653557223572:android:262743dd9e73e9bf22e481",
+        "android_client_info": {
+          "package_name": "com.khizar_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653557223572-v5opesme2ocl46ghacprlki99i9l7tb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vAXy0ULPYkYTySs-Kt6DUhAw7Rq02YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653557223572-v5opesme2ocl46ghacprlki99i9l7tb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653557223572-dbpk53cibe1k72688n91v8vmsusmq58b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.gstech.khizar-Driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
